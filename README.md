@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/Dahnie/">
+  <a href="https://Dahnie.github.io/Dahnie/">
   <img  src="https://github.com/Dahnie/Dahnie/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
