@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/Dahnie/Dahnie/blob/main/resources/img/waving.gif">, I'm Daniel</h1>
-<h4 align="center">A Frontend Engineer</h4>
+<h1 align="center">Hi<img width="35" src="https://github.com/Dahnie/Dahnie/blob/main/resources/img/waving.gif">, I'm Daniel.</h1>
+<h4 align="center">A Frontend Engineer.</h4>
 </div>
 
 <div align="center">
